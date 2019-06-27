@@ -1,0 +1,12 @@
+
+
+
+
+<suite name = "Testng Example">
+	<test name = "Differenet TestNGwholetestcasesrunatonce">
+		<classes>
+			<class name="testngTutorial.TestNGInvocationCountTest" />	
+			<class name="testngTutorial.TestNGAssert" />	
+		</classes>
+	</test>
+</suite>
